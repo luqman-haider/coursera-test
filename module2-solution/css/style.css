@@ -1,0 +1,208 @@
+
+@media (min-width: 992px){
+    #menu{
+        text-align: center;
+    }
+    #content_1{
+        
+        border: 2px solid black;
+        padding-left: 5px;
+        width: 350px;
+        height: 200px;
+        margin: 30px;
+        float: left;
+        
+    }
+    #chicken_id{
+        display: block;
+        text-align: center;
+        border-style: solid;
+        border-color: black;
+        border-width: 0px 0px 2px 2px;
+        background-color: rgb(252, 213, 213);
+        width: 98px;
+        position: relative;
+        top: -20px;
+        left: 251px;
+    }
+    #content_2{
+        border: 2px solid black;
+        padding-left: 5px;
+        width: 350px;
+        height: 200px;
+        margin: 30px;
+        float: left;
+    }
+    #beef_id{
+        display: block;
+        text-align: center;
+        border-style: solid;
+        border-color: black;
+        border-width: 0px 0px 2px 2px;
+        color: white;
+        background-color: red;
+        width: 98px;
+        position: relative;
+        top: -20px;
+        left: 251px;
+    }
+    #content_3{
+        border: 2px solid black;
+        padding-left: 5px;
+        width: 350px;
+        height: 200px;
+        margin: 30px;
+        float: left;
+    }
+    #sushi_id{
+        display: block;
+        text-align: center;
+        border-style: solid;
+        border-color: black;
+        border-width: 0px 0px 2px 2px;
+        background-color: rgb(250, 250, 177);
+        width: 98px;
+        position: relative;
+        top: -20px;
+        left: 250px;
+    }
+    
+    
+}
+@media (min-width: 768px) and (max-width: 992px){
+    #menu{
+        text-align: center;
+    }
+    #content_1{
+        border: 2px solid black;
+        padding-left: 5px;
+        width: 40%;
+        height: 250px;
+        margin: 30px;
+        float: left;
+    }
+    #chicken_id{
+        text-align: center;
+        display: block;
+        border-style: solid;
+        border-color: black;
+        border-width: 0px 0px 2px 2px;
+        background-color: rgb(252, 213, 213);
+        position: relative;
+        margin-left: 151px;
+        margin-top: -20px;
+    }
+    #content_2{
+        border: 2px solid black;
+        padding-left: 5px;
+        width: 40%;
+        height: 250px;
+        margin: 30px;
+        float: left;
+        
+    }
+    #beef_id{
+        display: block;
+        text-align: center;
+        border-style: solid;
+        border-color: black;
+        border-width: 0px 0px 2px 2px;
+        color: white;
+        background-color: red;
+        position: relative;
+        margin-left: 151px;
+        margin-top: -20px;
+    }
+    #content_3{
+        border: 2px solid black;
+        padding-left: 5px;
+        width: 87%;
+        height: 200px;
+        margin: 30px;
+        float: left;
+    }
+    #sushi_id{
+        display: block;
+        text-align: center;
+        border-style: solid;
+        border-color: black;
+        border-width: 0px 0px 2px 2px;
+        background-color: rgb(250, 250, 177);
+        position: relative;
+        margin-left: 450px;
+        margin-top: -20px;
+    }
+}
+
+    
+@media (max-width: 767px){
+    #menu{
+        text-align: left;
+        margin-left: 140px;
+    }
+    #content_1{
+        
+        border: 2px solid black;
+        padding-left: 5px;
+        width: 350px;
+        height: 200px;
+        margin: 30px;
+        float: left;
+        
+    }
+    #chicken_id{
+        display: block;
+        text-align: center;
+        border-style: solid;
+        border-color: black;
+        border-width: 0px 0px 2px 2px;
+        background-color: rgb(252, 213, 213);
+        width: 98px;
+        position: relative;
+        top: -20px;
+        left: 251px;
+    }
+    #content_2{
+        border: 2px solid black;
+        padding-left: 5px;
+        width: 350px;
+        height: 200px;
+        margin: 30px;
+        float: left;
+    }
+    #beef_id{
+        display: block;
+        text-align: center;
+        border-style: solid;
+        border-color: black;
+        border-width: 0px 0px 2px 2px;
+        color: white;
+        background-color: red;
+        width: 98px;
+        position: relative;
+        top: -20px;
+        left: 251px;
+    }
+    #content_3{
+        border: 2px solid black;
+        padding-left: 5px;
+        width: 350px;
+        height: 200px;
+        margin: 30px;
+        float: left;
+    }
+    #sushi_id{
+        display: block;
+        text-align: center;
+        border-style: solid;
+        border-color: black;
+        border-width: 0px 0px 2px 2px;
+        background-color: rgb(250, 250, 177);
+        width: 98px;
+        position: relative;
+        top: -20px;
+        left: 250px;
+    }
+}
+
+    
